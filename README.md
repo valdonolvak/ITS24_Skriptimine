@@ -1,9 +1,10 @@
 # ITS24_Skriptimine
 
+```bash
 sudo apt install gh
 gh auth login
 gh repo create ITS24_Skriptimine --public --confirm
-
+```
 
 Et veenduda, et haru on tõesti `main`, võid käivitada:
 
