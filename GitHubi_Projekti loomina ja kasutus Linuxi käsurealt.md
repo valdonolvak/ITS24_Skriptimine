@@ -41,6 +41,8 @@ cd /mnt/c/GitHub_ITS24
 ## 🔧 4. Initsialiseeri Git ja lisa failid
 
 ```bash
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 git init
 git add .
 git commit -m "Algne versioon HKHK_Skriptimine projektist"
